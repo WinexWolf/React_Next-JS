@@ -1,9 +1,7 @@
 import * as React from 'react';
 import QRCode from 'qrcode.react';
-import styled, { useTheme } from 'styled-components';
+import styled from 'styled-components';
 
-import { Button, Container, Title } from '@/components/UserManagement/style';
-import Image from 'next/image';
 
 
 const Container = styled.div`
